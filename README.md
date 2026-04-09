@@ -1,4 +1,3 @@
-
 <!-- ══════════════════════════════════════════════ -->
 <!--        POOJA — GITHUB PROFILE README           -->
 <!-- ══════════════════════════════════════════════ -->
@@ -10,6 +9,8 @@
 ### `Trainee AI Engineer` &nbsp;·&nbsp; `MSc Applied Data Science` &nbsp;·&nbsp; `Hyderabad 🇮🇳`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+AI+agents+%40+Bitapps;RAG+%7C+NLP+%7C+Scraping+Pipelines;Turning+data+into+decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pooja701702&color=1D9E75&style=flat-square&label=Profile+Views)
 
 </div>
 
